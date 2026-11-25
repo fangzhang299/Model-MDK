@@ -6,7 +6,8 @@ packDir: null
 srcDirs: []
 virtualFolder:
   name: <virtual_root>
-  files: []
+  files:
+    - path: startup_stm32f103xb.s
   folders:
     - name: Application
       files: []
